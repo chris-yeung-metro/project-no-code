@@ -1,0 +1,25 @@
+{
+  "name": "project-no-code",
+  "version": "1.0.0",
+  "description": "Web app to list latest news from BBC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-yeung-metro/project-no-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris-yeung-metro/project-no-code/issues"
+  },
+  "homepage": "https://github.com/chris-yeung-metro/project-no-code#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "xml2js": "^0.6.2"
+  }
+}
